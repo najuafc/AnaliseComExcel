@@ -10,5 +10,5 @@ Finalizada a campanha, o marketing disponibilizou a base de dados bank_marketing
 
 ## Objetivo da análise
 
-Buscar por insights sobre a venda dos títulos, o perfil dos clientes: Idade, Profissão, Estado Civil, Formação, Situação de Crédito e sobre a utilização de outros produtos: Hipoteca e Empréstimo e fornecer informações suficientes para que as próximas campanhas sejam direcionadas para o público mais propenso a comprar o produto de investimento.
+Buscar por insights sobre a venda dos títulos, o perfil dos clientes: Idade, Profissão, Estado Civil, Formação, Situação de Crédito e sobre a utilização de outros produtos: Hipoteca e Empréstimo, fornecendo informações suficientes para que as próximas campanhas sejam direcionadas para o público mais propenso a comprar o produto de investimento.
 
