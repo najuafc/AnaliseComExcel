@@ -1,8 +1,8 @@
-### Análise exploratória de dados com Excel
+# Análise exploratória de dados com Excel
 
-## Estudo feito durante o curso "Excel para análise de dados", da PreditivaAI
+Estudo feito durante o curso "Excel para análise de dados", da PreditivaAI
 
-# Contextualização
+## Contextualização
 
 Com a finalidade de entender melhor o perfil dos clientes para potencializar a venda de um produto de investimento, a área de marketing criou uma campanha selecionando alguns clientes para realizar a oferta.
 
